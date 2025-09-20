@@ -92,4 +92,13 @@ input::placeholder{
     background-color: #f67c14;
 }
 
+button:hover{
+    background-color: #f67c14;
+}
+
+.opr:hover{
+    color: white;
+}
+
+
 
